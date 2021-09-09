@@ -9,12 +9,19 @@
 	
 ### Tecnologias	
 <div style="display: inline_block">
-  <img align="center" alt="JúlioRossato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JúlioRossato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JúlioRossato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JúlioRossato-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
- <img align="center" alt="JúlioRossato-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="JúlioRossato-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img align="center" alt="Júlio Rossato-HTML5" height="30" width="40" src="https://juliorossato.com.br/img/html5-plain-wordmark.svg">
+<img align="center" alt="Júlio Rossato-CCS3" height="30" width="40" src="https://juliorossato.com.br/img/css3-plain-wordmark.svg">
+<img align="center" alt="Júlio Rossato-Bootstrap" height="30" width="40" src="https://juliorossato.com.br/img/bootstrap-plain-wordmark.svg">
+<img align="center" alt="Júlio Rossato-JavaScript" height="30" width="40" src="https://juliorossato.com.br/img/javascript-original.svg">
+<img align="center" alt="Júlio Rossato-jQuery" height="30" width="40" src="https://juliorossato.com.br/img/jquery-plain-wordmark.svg">
+<img align="center" alt="Júlio Rossato-PHP" height="30" width="40" src="https://juliorossato.com.br/img/jquery-plain-wordmark.svg">
+<img align="center" alt="Júlio Rossato-WordPress" height="30" width="40" src="https://juliorossato.com.br/img/wordpress-plain-wordmark.svg">
+<img align="center" alt="Júlio Rossato-CodeIgniter" height="30" width="40" src="https://juliorossato.com.br/img/codeigniter-plain-wordmark.svg">
+<img align="center" alt="Júlio Rossato-MySql" height="30" width="40" src="https://juliorossato.com.br/img/mysql-original-wordmark.svg">
+<img align="center" alt="Júlio Rossato-Apache" height="30" width="40" src="https://juliorossato.com.br/img/apache-original-wordmark.svg">
+<img align="center" alt="Júlio Rossato-Linux" height="30" width="40" src="https://juliorossato.com.br/img/linux-original.svg">
+<img align="center" alt="Júlio Rossato-Arduino" height="30" width="40" src="https://juliorossato.com.br/img/arduino-original-wordmark.svg">
+
 
 	
 	
@@ -25,6 +32,5 @@
  
 <div> 
   <a href="https://instagram.com/julio_rossato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@juliorossato.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliorossato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
