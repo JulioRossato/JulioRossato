@@ -13,7 +13,7 @@
 <img align="center" alt="Júlio Rossato-HTML5" height="30" width="40" src="https://juliorossato.com.br/images/html5.png">
 <img align="center" alt="Júlio Rossato-CCS3" height="30" width="40" src="https://juliorossato.com.br/images/css3.png">
 <img align="center" alt="Júlio Rossato-Bootstrap" height="30" width="40" src="https://juliorossato.com.br/images/bootstrap.png">
-<img align="center" alt="Júlio Rossato-JavaScript" height="30" width="40" src="https://juliorossato.com.br/images/javascriptpng">
+<img align="center" alt="Júlio Rossato-JavaScript" height="30" width="40" src="https://juliorossato.com.br/images/javascript.png">
 <img align="center" alt="Júlio Rossato-jQuery" height="30" width="40" src="https://juliorossato.com.br/images/jquery.png">
 <img align="center" alt="Júlio Rossato-PHP" height="30" width="40" src="https://juliorossato.com.br/images/php.png">
 <img align="center" alt="Júlio Rossato-WordPress" height="30" width="40" src="https://juliorossato.com.br/images/wordpress.png">
